@@ -2,17 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aryan%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Cloud%20%26%20IoT%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+![Aryan Pandey](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aryan%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Cloud%20%26%20IoT%20Enthusiast&descAlignY=55&descSize=20)
 
 </div>
 
 <br>
+
+<!-- ===================== PROFILE INFO ===================== -->
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanpandey29&color=blueviolet&style=flat)
 
-[![GitHub followers](https://img.shields.io/github/followers/aryanpandey29?label=Followers&style=flat&color=blue)](https://github.com/aryanpandey29)
+[![GitHub Followers](https://img.shields.io/github/followers/aryanpandey29?label=Followers&style=flat&color=blue)](https://github.com/aryanpandey29)
 
 </div>
 
@@ -20,7 +22,7 @@
 
 <div align="center">
 
-![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-blueviolet)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-blueviolet)
 ![NIIT University](https://img.shields.io/badge/NIIT-University-purple)
 ![Batch](https://img.shields.io/badge/Batch-2027-orange)
 ![Location](https://img.shields.io/badge/Location-India-green)
@@ -56,11 +58,16 @@ I'm currently focused on strengthening my skills for **Software Development, AI/
 
 ## 💻 Programming Languages
 
-<p align="left">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash" />
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-</p>
+</div>
 
 ---
 
@@ -84,14 +91,16 @@ I'm currently focused on strengthening my skills for **Software Development, AI/
 
 ## 🗄️ Database
 
-<p align="left">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-</p>
+</div>
 
 - SQL
 - MySQL
+- MongoDB
 - Database Management Systems
 - ER Modeling
 - Relational Database Design
@@ -100,11 +109,16 @@ I'm currently focused on strengthening my skills for **Software Development, AI/
 
 ## ☁️ Cloud & DevOps
 
-<p align="left">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,docker,linux" />
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Google Cloud](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-</p>
+</div>
 
 - Git & GitHub
 - Cloud Computing
