@@ -6,14 +6,23 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanpandey29&color=blueviolet&style=flat)
 
 [![GitHub followers](https://img.shields.io/github/followers/aryanpandey29?label=Followers&style=flat&color=blue)](https://github.com/aryanpandey29)
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-blueviolet)
+</div>
+
+<br>
+
+<div align="center">
+
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-blueviolet)
 ![NIIT University](https://img.shields.io/badge/NIIT-University-purple)
+![Batch](https://img.shields.io/badge/Batch-2027-orange)
 ![Location](https://img.shields.io/badge/Location-India-green)
 
 </div>
