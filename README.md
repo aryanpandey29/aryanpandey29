@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Aryan Pandey](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aryan%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Cloud%20%26%20IoT%20Enthusiast&descAlignY=55&descSize=20)
+![Aryan Pandey](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aryan%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Cloud%20and%20IoT%20Enthusiast&descAlignY=55&descSize=20)
 
 </div>
 
